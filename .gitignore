@@ -21,7 +21,4 @@ logs/
 ### mac ###
 .DS_Store
 
-# commit test 용(삭제 예정)#
-*.log
-
 # commit test oli
