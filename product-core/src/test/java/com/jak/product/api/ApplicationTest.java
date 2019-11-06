@@ -6,10 +6,16 @@ package com.jak.product.api;
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
+
 @SpringBootTest
-class ApplicationTest {
+public class ApplicationTest {
+	
+	public ApplicationTest() {
+		
+	}
+	
     @Test 
-    void testSomeLibraryMethod() {
+    public void testSomeLibraryMethod() {
         
     }
 }
