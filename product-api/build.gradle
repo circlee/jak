@@ -1,0 +1,8 @@
+
+apply plugin: 'war'
+
+dependencies {
+    compile project(':product-core')
+    compile('org.springframework.boot:spring-boot-starter-web')
+}
+

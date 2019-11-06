@@ -1,0 +1,4 @@
+rootProject.name = 'jak'
+
+include 'product-api'
+include 'product-core'
